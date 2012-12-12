@@ -25,7 +25,7 @@ def css_bullshit_to_int(str)
     '7'
   when '-49px', '-4.2em', '-37pt'
     '8'
-  when '-56px', '-42pt'
+  when '-56px', '-42pt', '-4.7em'
     '9'
   when '-63px', '-47.5pt'
     '.'
